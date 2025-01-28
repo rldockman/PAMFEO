@@ -1,0 +1,17 @@
+In excel, mark which contigs you want to keep after masking repeats, running Kraken2, and running Hisat2 with RNA reads
+
+Use excel function =TEXTJOIN("\|",TRUE,[range]) to combine contig names of ones you want to keep for use with grep
+	remember to use ' ' on set of contig names
+	
+Then use the following shell script to obtain a filtered contigs genome
+
+##########################################################################################
+#!/bin/bash
+
+## what I did:
+grep -A 1 'contig1\|contig2\|contig3\|......' linear_PAMFEO.fa > tempcontigs.fa
+grep -v '\-' tempcontigs.fa > filteredcontigs.fa # removes line between contigs
+rm tempcontigs.fa
+
+## alternative? 
+grep --no-group-separator -A 1 'contig1\|contig2\|contig3\|......' linear_PAMFEO.fa > filteredcontigs.fa
