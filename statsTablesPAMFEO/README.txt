@@ -28,3 +28,7 @@ Repeat landscape output
     Periplaneta_americana.full_mask.align.landscape.Div.Rclass.tsv
     Periplaneta_americana.full_mask.align.landscape.Div.Rfam.tsv
     Periplaneta_americana.full_mask.align.landscape.Div.Rname.tsv
+
+OrthoFinder tables
+    OrthoFinder_perSpeciesStats.txt
+    OrthoFinder_perSpeciesStats_noPAM2022.txt
