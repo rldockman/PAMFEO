@@ -1,0 +1,11 @@
+	BGer	CFor	CSec	DPun	PAm2022	PAMFEO	ZooNev
+Number of genes	22330	12983	13170	28416	26568	16749	12381
+Number of genes in orthogroups	17026	12341	12765	21389	22805	15963	12096
+Number of unassigned genes	5304	642	405	7027	3763	786	285
+Percentage of genes in orthogroups	76.2	95.1	96.9	75.3	85.8	95.3	97.7
+Percentage of unassigned genes	23.8	4.9	3.1	24.7	14.2	4.7	2.3
+Number of orthogroups containing species	8982	9566	10110	11686	7579	10975	10065
+Percentage of orthogroups containing species	53.7	57.2	60.5	69.9	45.4	65.7	60.2
+Number of species-specific orthogroups	881	73	80	771	1220	198	49
+Number of genes in species-specific orthogroups	3907	270	336	3453	6382	744	178
+Percentage of genes in species-specific orthogroups	17.5	2.1	2.6	12.2	24	4.4	1.4
