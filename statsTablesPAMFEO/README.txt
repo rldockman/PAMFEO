@@ -1,4 +1,4 @@
-This folder contains statistics/data tables that were generated throughout the assembly process that may be of interest.
+This folder contains statistics/data tables generated throughout the assembly process that may be of interest.
 
 Contig read coverage
     Pacbio reads
