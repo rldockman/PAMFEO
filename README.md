@@ -1,5 +1,5 @@
 This repository contains the scripts used to assemble and analyze the Ottesen lab genome assembly for the American cockroach, _Periplaneta americana_ (accession: [GCF_040183065.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_040183065.1/)).
-The manuscript describing this genome has been accepted for publication by _G3: Genes|Genomes|Genetics_
+The manuscript describing this genome has been accepted for publication by _G3: Genes|Genomes|Genetics_ ([link to manuscript](https://doi.org/10.1093/g3journal/jkaf247)) 
 
 Most steps were completed using the University of Georgia's high performance computing cluster.
 
